@@ -1,0 +1,6 @@
+= Build a Name Recognizer
+// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
+:hp-image: /covers/cover.png
+:published_at: 2017-08-02
+:hp-tags: Machine Learning, HMM
+:hp-alt-title: Data Science
