@@ -4,3 +4,5 @@
 :published_at: 2017-08-02
 :hp-tags: Machine Learning, HMM
 :hp-alt-title: Data Science
+
+# part 1 
