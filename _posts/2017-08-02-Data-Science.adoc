@@ -5,8 +5,8 @@
 :hp-tags: Machine Learning, HMM
 :hp-alt-title: Data Science
 
-# part 1 
+ part 1 
 
-# part 2
+ part 2
 
-# part 3
+ part 3
