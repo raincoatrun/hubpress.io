@@ -1,8 +1,0 @@
-// = How to build a name recognition
-// See https://hubpress.gitbooks.io/hubpress-knowledgebase/content/ for information about the parameters.
-// :hp-image: /covers/cover.png
-// :published_at: 2017-05-12
-// :hp-tags: Markov Chain Model
-// :hp-alt-title: Data Science & Machine Learning in Microsoft Research
-
-# Introduction 
